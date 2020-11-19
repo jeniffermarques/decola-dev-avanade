@@ -36,7 +36,7 @@ Os cursos ministrados são:
 
 # Material
 
-Os materiais encontram-se nos cursos da [Digital Innovation One](https://web.digitalinnovation.one/track/decola-dev-avanade-2021)
+Os materiais encontram-se nos cursos da [Digital Innovation One](https://web.digitalinnovation.one)
 
 ## Plano de ação:
 
