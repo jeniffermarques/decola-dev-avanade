@@ -7,3 +7,7 @@ Vetor ou Array uni-dimensional é uma variável que armazena várias variáveis 
 
 O vetor é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade 
 de valores do mesmo tipo.
+
+Matriz ou array multi-dimensional é um vetor de vetores.
+
+Uma matriz é um vetor que possui duas ou mais dimensões.
