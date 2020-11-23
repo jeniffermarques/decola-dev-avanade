@@ -12,11 +12,16 @@ A sigla SHA significa Secure Hash Algorithm (Algorítmo de Hash Seguro), é um c
 
 A encriptação gera conjunto de caracteres identificador de 40 dígitos.
 
-### Objetos do Git: 
+## Objetos do Git: 
 
 - Blobs;
 - Tree;
 - Commits.
 
+## Primeiros comandos GIT:
+
+- git init;
+- git add;
+- git commit.
 
 
