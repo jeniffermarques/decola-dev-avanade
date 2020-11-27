@@ -50,7 +50,7 @@
 
 - O "SOAP" Message possui uma estrutura única que deve sempre ser seguida 
 
-  ![](C:\Users\Jenny\Documents\Projetos\decola-dev-avanade\fundamentos-arquitetura\web-services\img\estrutura-soap.png)
+  ![](C:\Users\Jenny\Documents\Projetos\estrutura-soap.png)
 
 ### XML
 
