@@ -50,7 +50,16 @@
 
 - O "SOAP" Message possui uma estrutura única que deve sempre ser seguida 
 
-  ![](C:\Users\Jenny\Documents\Projetos\estrutura-soap.png)
+  
+
+  - **SOAP Envelope**
+    - SOAP Envelope é o primeiro elemento do documento e é usado para encapsular toda a mensagem SOAP
+  - SOAP Header
+    - SOAP Header é o elemento onde possui informações de atributos e metadados da requisição.
+  - SOAP Body
+    - SOAP Body é o elemento que contém os detalhes da mensagem. 
+
+
 
 ### XML
 
@@ -59,6 +68,20 @@
 - Facilita a separação de conteúdo
 - Não tem limitação de criação de tags
 - Linguagem comum para integrações entre aplicações.
+
+
+
+### WSDL
+
+- WSDL - We Swevices Description Language.
+- Usado para descrever Web Services, funciona como um contrato do serviço.
+- A descrição é feito em um documento XML, onde é descrito o serviço, especificalçies de acesso, operações e métodos.
+
+### XSD
+
+- XSD - XML Schema Definition
+- É um schema no formato XML usado para definir a estrutura de dados que será validada no XML
+- O XSD funciona como uma documentação de como deve ser montado o SOAP Message (XML) que será enviado através de Web Service.
 
 
 
