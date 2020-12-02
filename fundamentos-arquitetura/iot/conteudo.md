@@ -90,13 +90,31 @@ Considere esses atributos na escolha:
 ### QoS 0
 
 - Nível mínimo de menor esforço
+
 - Sem garantia de entrega
+
 - Mensagem não é retransmitida
 
-
+  
 
 ### QoS 1
 
 - Garante que a mensagem foi entregue no mínimo uma vez ao recebedor
+
 - Mensagem pode ser retransmitida se não houver confirmação de entrega
+
+  
+
+### QoS 2
+
+- Garante que a mensagem foi entregue no mínimo uma vez ao recebedor
+- Mensagem pode ser retransmitida se não houver confirmação de entrega
+
+
+
+## Cloud 
+
+- Grande e cada vez maior número de devices conectados
+- TBs ou PBs de informações
+- Potencial de escala global
 
