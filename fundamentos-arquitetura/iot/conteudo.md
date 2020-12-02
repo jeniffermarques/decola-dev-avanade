@@ -23,3 +23,65 @@
 
 
 
+## Arquitetura da Internet das coisas
+
+
+
+Considere esses atributos na escolha:
+
+- Baixo consumo de energia
+- Rede de dados limitidado
+- Resiliência
+- Segurança
+- Customização
+- Baixo Custo
+
+
+
+## Exemplos de plataformas para utilizar
+
+### Arduino 
+
+- Plataforma de Prototipagem 
+
+- Com entradas / saídas
+
+- Desenvolvedor escreve em C/C++
+
+- Interface serial ou USB
+
+- Shieds
+
+  
+
+### Embarcados
+
+**MCUs**
+
+- Microcontrolador de chip único
+- Sistema operacional real time
+- Embarcado
+- Uso industrial, médico, militar, transporte
+
+
+
+### Minicomputadores 
+
+**Raspberry Pi**
+
+- Computador completo
+- Hardware integrado em uma única placa
+- Roda SO Linux ou Windows
+- Uso doméstico e comercial
+
+
+
+## Protocolo MQTT 
+
+- Base na pilha do TCP/IP
+- Protocolo de mensagem assíncrona (M2M)
+- Criado pela IMB para conectar sensores de pipelines fr petróleo a satélites
+- Padrão OASIS suportado pelas linguagens de programação mais populares
+
+
+
