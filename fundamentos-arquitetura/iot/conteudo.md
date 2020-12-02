@@ -118,3 +118,11 @@ Considere esses atributos na escolha:
 - TBs ou PBs de informações
 - Potencial de escala global
 
+
+
+## Estudo de caso
+
+- Arquitetura é escolha
+- Prova de conceito
+- Mínimo Produto Viável
+- Iot na prática 
