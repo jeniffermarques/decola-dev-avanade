@@ -85,3 +85,18 @@ Considere esses atributos na escolha:
 
 
 
+## Níveis de qualidade de comunicação 
+
+### QoS 0
+
+- Nível mínimo de menor esforço
+- Sem garantia de entrega
+- Mensagem não é retransmitida
+
+
+
+### QoS 1
+
+- Garante que a mensagem foi entregue no mínimo uma vez ao recebedor
+- Mensagem pode ser retransmitida se não houver confirmação de entrega
+
