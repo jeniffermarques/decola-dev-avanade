@@ -36,5 +36,20 @@
 
 
 
-## Banco de Dados Relacionais 
+## Banco de Dados Relacionais (SGDBR)
+
+### Modelagem 
+
+- Modelo conceitual - MER
+- Modelo Lógico - Implementação
+
+### Normalização 
+
+1ª.. 5ª Formas normais 
+
+1, 2 e 3ª - Mais Comum
+
+ 
+
+## SGBDR - SQL 
 
