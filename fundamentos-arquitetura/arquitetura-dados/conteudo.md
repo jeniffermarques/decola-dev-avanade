@@ -102,3 +102,18 @@ FROM CLIENTE
 
 
 
+## Transactions
+
+- Inicio: Insert, Update, Delete
+- Resolução: Commit, Rollback
+- Fim: Novos Dados ou Dados originais
+
+
+
+##  ACID - Transactions 
+
+- Atomicidade: Todas as operações executadas com sucesso. Commit ou Rollback.
+- Consistência: Unicidade de chaves, restrições de integridade lógica, etc.
+- Isolamento: Várias transações podem acessar simultaneamente o mesmo registro (ou parte do registro).
+- Durabilidade: Depois do Commit, mesmo com erros, queda de energia, etc. As alterações devem ser aplicadas.
+
