@@ -223,3 +223,20 @@ Os principais conceitos organizacionais em C# são:
 - membros- Campos, métodos, propriedades e eventos são exemplos de membros
 - assemblies
 
+
+
+Perguntas e respostas:
+
+1. Quem converte os assemblies em Linguagem de Máquina?
+
+   Resposta: CLR
+
+2. O que um código C# gera ao ser compilado no comando "dotnet build"?
+
+   Resposta: Código compilado em Linguagem Intermediária
+
+3. Qual o nome da compilação para converter o código da linguagem intermediária em instruções de máquina nativa?
+
+   Resposta: JIT
+
+   
