@@ -144,5 +144,37 @@ Lançamento do .NET Framework 4.8 com C# 7.3 no Visual Studio 2019
 
 Lançamento do .NET Core 3.0 com C# 8.0 no **Visual Studio 2019, Visual Studio Xode ou Visual Studio for Mac 2019**
 
+## 2020
 
+.NET Frameworld está pronto na versão 4.8!
+
+E deixa de ser evoluído - junto com ele WCF e ASP.NET Webforms
+
+Previsto lançamento do .NET 5!!
+
+
+
+## O que é .NET
+
+Infraestrutura para Desenvolvimento de Software criada pela Microsoft
+
+Uma aplicação .NET é desenvolvida para e roda em uma das seguintes implementações do .NET:
+
+- .NET Core
+- .NET Framework
+- Mono
+- Universal Windows Plataform (UWP)
+
+## Como?
+
+Cada implementação inclui um ou mais .NET Runtimes (ambiente de execução):
+
+- .NET Core: CoreCLR e CoreRT
+- .Net Framework: CLR
+- Mono: Mono Runtime
+- UWP: .NET Native
+
+Atualmente a Microsoft desenvolve e suporta 3 linguagens para .NET
+
+C#, F# e Visual Basic
 
