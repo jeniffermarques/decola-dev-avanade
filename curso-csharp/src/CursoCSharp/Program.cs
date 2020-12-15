@@ -6,7 +6,14 @@ namespace CursoCSharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int numeroDeVezes = 5;
+
+            for (int i = 0; i < numeroDeVezes; i++)
+            {
+                Console.Write($"Bem vindo ao curso de .NET {i} \n");
+            }
+
+            
         }
     }
 }
