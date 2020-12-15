@@ -178,3 +178,48 @@ Atualmente a Microsoft desenvolve e suporta 3 linguagens para .NET
 
 C#, F# e Visual Basic
 
+
+
+## O que é C#
+
+C# é uma linguagem elegante, orientada a objetos e fortemente tipada
+
+A sintaxe do C# é similar a do C, C++ ou Java
+
+Suporta os conceitos de encapsulamento, herança e polimorfismo (OO)
+
+Os programas C# são executados no .NET. que inclui:
+
+- CLR (Commom Language Runtime)
+- Conjunto unificado de bibliotecas de classes
+
+Atualmente o compilador do C# é o Roslyn
+
+## Como funciona?
+
+O código-fonte escrito em C# é compilado em uma linguagem intermediária (IL)
+
+O código e os recursos de IL são armazenados no disco em um arquivo executável chamado assembly, geralmente e com uma extensão .exe ou .dll
+
+Quando o programa C# é executado, o assembly é carregado no CLR
+
+Em seguida, o CLR executará a compilação just in time (JIT) para converter o código IL em instruções de máquinas nativas
+
+O CLR também fornece outros serviços:
+
+- Garbage Collector - Ferramenta que coleta "lixo"
+- Exception Handler - Recebe e controla as exceções
+- Resources Manager - Gerenciador de recursos.
+
+Além dos serviços de tempo de execução, o .NET também inclui uma extensa biblioteca com milhares de classes que fornecem uma ampla variedade de funcionalidades úteis, desde entrada e saída de arquivos, manipulação de cadeias de caracteres, análise XML, etc.
+
+## Estrutura do programa 
+
+Os principais conceitos organizacionais em C# são:
+
+- Programas
+- namespaces
+- tipos
+- membros
+- assemblies
+
