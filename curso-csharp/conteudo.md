@@ -217,9 +217,9 @@ Além dos serviços de tempo de execução, o .NET também inclui uma extensa bi
 
 Os principais conceitos organizacionais em C# são:
 
-- Programas
-- namespaces
-- tipos
-- membros
+- Programas consistem em um ou mais arquivos
+- namespaces - Os programas declaram tipos, que contém membros e podem ser organizados em namespaces
+- tipos - Classes e interfaces são exemplos de tipos
+- membros- Campos, métodos, propriedades e eventos são exemplos de membros
 - assemblies
 
